@@ -8,6 +8,7 @@ import Gaming from "./components/gaming/gaming";
 import PCComponents from "./components/pc-components/pc-components";
 import ProductPage from "./components/product-page/product-page";
 import Header from "./components/header/header";
+import UserInfoBar from "./components/user-info-bar/user-info-bar";
 
 import {
   BrowserRouter as Router,
@@ -25,8 +26,9 @@ import "./App.css";
 const App = () => {
   return (
     <div className="App">
-      <Header />
       <Router>
+        <UserInfoBar />
+        <Header />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/tvs" element={<TVs />} />
