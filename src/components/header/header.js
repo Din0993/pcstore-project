@@ -7,7 +7,6 @@ import {
   HeaderLink,
 } from "./header.style";
 import { ReactComponent as Logo } from "../../assets/crown.svg";
-import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
