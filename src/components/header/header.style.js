@@ -11,11 +11,10 @@ export const HeaderContainer = styled.div`
   align-items: center;
   gap: 10px;
   font-size: 12px;
-  height: 45px;
+  height: 65px;
 `;
 
 export const LogoContainer = styled(Link)`
-  height: 100%;
   cursor: pointer;
 `;
 
@@ -28,6 +27,7 @@ export const HeaderOptionsContainer = styled.div`
 export const HeaderLink = styled(Link)`
   color: white;
   cursor: pointer;
+  font-size: 18px;
   transition: all 0.3s ease;
   &:hover {
     color: #005cd6;

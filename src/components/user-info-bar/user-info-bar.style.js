@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 export const UserInfoBarContainer = styled.div`
   position: relative;
   padding: 0 70px;
-  height: 30px;
+  height: 50px;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -15,7 +15,7 @@ export const UserInfoBarContainer = styled.div`
 
 export const UserInfoBarTextContainer = styled.div`
   display: flex;
-  font-size: 10px;
+  font-size: 16px;
   line-height: 1;
 `;
 
@@ -30,7 +30,7 @@ export const UserInfoBarTextNormal = styled.p`
 export const UserInfoBarButtonsContainer = styled.div`
   display: flex;
   background-color: transparent;
-  gap: 5px;
+  gap: 12px;
 `;
 
 export const UserInfoBarButton = styled.button`
@@ -38,9 +38,9 @@ export const UserInfoBarButton = styled.button`
   outline: none;
   background-color: #00449c;
   color: white;
-  font-size: 12px;
+  font-size: 16px;
   border-radius: 5px;
-  padding: 3px 10px;
+  padding: 5px 13px;
   cursor: pointer;
   transition: all 0.3s ease;
   &:hover {

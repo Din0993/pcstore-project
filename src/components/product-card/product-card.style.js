@@ -6,8 +6,8 @@ export const ProductCardContainer = styled.div`
   padding: 5px 70px;
   height: 520px;
   display: flex;
-  margin-top: 30px;
   gap: 30px;
+  margin-top: 10px;
 `;
 
 export const ProductCardItem = styled.div`
@@ -45,14 +45,21 @@ export const ProductCardImageContainer = styled.div`
 export const ProductCardName = styled(Link)`
   color: #0061bb;
   cursor: pointer;
-  font-size: 24px;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 10px;
+  padding: 0;
+  line-height: 1;
+  height: 50px;
 `;
 
 export const ProductCardPrice = styled.p`
   color: black;
   font-size: 20px;
+  margin-top: 30px;
 `;
 
 export const ProductCardTitle = styled.h2`
   padding: 5px 70px;
+  margin-top: 50px;
 `;
