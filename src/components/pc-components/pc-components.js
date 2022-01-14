@@ -1,11 +1,15 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import ProductGroups from "../product-group-card/product-group-card";
+import { PCComponentsTitle } from "./pc-components.style";
+import { PCCOMPONENTS_DATA } from "./pc-components.data";
 const PCComponents = () => {
   const navigate = useNavigate();
+  const data = PCCOMPONENTS_DATA;
   return (
     <div>
-      <h1>PC Components Page</h1>
-      <button onClick={() => navigate(`/pc-components/gpu`)}>Gpu</button>
+      <PCComponentsTitle>PC Components</PCComponentsTitle>
+      <ProductGroups data={data} />
     </div>
   );
 };
