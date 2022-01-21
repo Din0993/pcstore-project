@@ -9,11 +9,7 @@ import {
   ProductCardImageContainer,
 } from "./product-card.style";
 
-import { useNavigate, useLocation } from "react-router-dom";
-
 const ProductCard = ({ recommendedProducts, title, section }) => {
-  console.log(recommendedProducts);
-  const location = useLocation();
   return (
     <div>
       <ProductCardTitle>{title}</ProductCardTitle>
@@ -22,7 +18,9 @@ const ProductCard = ({ recommendedProducts, title, section }) => {
           if (
             product.section
               ? product.section === section
-              : product.type === section || section === "we recommend"
+              : product.type === section ||
+                section === "we recommend" ||
+                product.pcpart === section
           )
             return (
               <ProductCardItem key={product.id}>

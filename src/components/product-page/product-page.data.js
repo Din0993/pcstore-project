@@ -96,6 +96,7 @@ export const PRODUCTS_DATA = [
     name: "GiGABYTE AORUS NViDIA RTX 3080",
     price: "$2469.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -105,6 +106,7 @@ export const PRODUCTS_DATA = [
     name: "Intel Core i9-11900k",
     price: "$799.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -114,6 +116,7 @@ export const PRODUCTS_DATA = [
     name: "AMD Ryzen 7 5800X",
     price: "$549.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -123,6 +126,7 @@ export const PRODUCTS_DATA = [
     name: "ASUS ROG Maximus XIII HERO",
     price: "$699.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -132,6 +136,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -275,6 +280,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -284,6 +290,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -293,6 +300,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -302,6 +310,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "gpus",
     url: "/pc-components/gpus",
   },
   {
@@ -311,6 +320,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -320,6 +330,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -329,6 +340,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -338,6 +350,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -347,6 +360,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cpus",
     url: "/pc-components/cpus",
   },
   {
@@ -356,6 +370,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -365,6 +380,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -374,6 +390,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -383,6 +400,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -392,6 +410,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "motherboards",
     url: "/pc-components/motherboards",
   },
   {
@@ -401,6 +420,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cases",
     url: "/pc-components/cases",
   },
   {
@@ -410,6 +430,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cases",
     url: "/pc-components/cases",
   },
   {
@@ -419,6 +440,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cases",
     url: "/pc-components/cases",
   },
   {
@@ -428,6 +450,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cases",
     url: "/pc-components/cases",
   },
   {
@@ -437,6 +460,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "ram",
     url: "/pc-components/ram",
   },
   {
@@ -446,6 +470,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "ram",
     url: "/pc-components/ram",
   },
   {
@@ -455,6 +480,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "ram",
     url: "/pc-components/ram",
   },
   {
@@ -464,6 +490,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "hdds",
     url: "/pc-components/hdds",
   },
   {
@@ -473,6 +500,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "ssds",
     url: "/pc-components/ssds",
   },
   {
@@ -482,6 +510,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "opticaldrives",
     url: "/pc-components/opticaldrives",
   },
   {
@@ -491,6 +520,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "psus",
     url: "/pc-components/psus",
   },
   {
@@ -500,6 +530,7 @@ export const PRODUCTS_DATA = [
     name: "GIGABYTE AORUS Radeon RX 6900 XT",
     price: "$2169.99",
     type: "pc parts",
+    pcpart: "cooling",
     url: "/pc-components/cooling",
   },
 ];
