@@ -9,6 +9,7 @@ import PCComponents from "./components/pc-components/pc-components";
 import ProductPage from "./components/product-page/product-page";
 import Header from "./components/header/header";
 import UserInfoBar from "./components/user-info-bar/user-info-bar";
+import DetailedProductPage from "./components/detailed-product-page/detailed-product-page";
 
 import {
   BrowserRouter as Router,
@@ -37,6 +38,17 @@ const App = () => {
           <Route path="/pc-components/:component" element={<ProductPage />} />
           <Route path="/mobile-phones" element={<MobilePhones />} />
           <Route path="/laptops" element={<Laptops />} />
+          <Route
+            path="/pc-components/:component/:param"
+            element={<DetailedProductPage />}
+          />
+          <Route path="/tvs/:param" element={<DetailedProductPage />} />
+          <Route path="/gaming/:param" element={<DetailedProductPage />} />
+          <Route
+            path="/mobile-phones/:param"
+            element={<DetailedProductPage />}
+          />
+          <Route path="/laptops/:param" element={<DetailedProductPage />} />
         </Routes>
       </Router>
     </div>
