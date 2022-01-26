@@ -10,6 +10,7 @@ import ProductPage from "./components/product-page/product-page";
 import Header from "./components/header/header";
 import UserInfoBar from "./components/user-info-bar/user-info-bar";
 import DetailedProductPage from "./components/detailed-product-page/detailed-product-page";
+import SignInAndSignUp from "./components/SignInAndSignUpPage.js/sign-in-and-sign-up";
 
 import {
   BrowserRouter as Router,
@@ -49,6 +50,7 @@ const App = () => {
             element={<DetailedProductPage />}
           />
           <Route path="/laptops/:param" element={<DetailedProductPage />} />
+          <Route path="/sign-in-sign-up" element={<SignInAndSignUp />} />
         </Routes>
       </Router>
     </div>

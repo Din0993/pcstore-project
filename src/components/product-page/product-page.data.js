@@ -7,6 +7,19 @@ export const PRODUCTS_DATA = [
     price: "$69.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 2,
@@ -16,6 +29,16 @@ export const PRODUCTS_DATA = [
     price: "$459.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 3,
@@ -25,6 +48,19 @@ export const PRODUCTS_DATA = [
     price: "$2199.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 4,
@@ -34,6 +70,19 @@ export const PRODUCTS_DATA = [
     price: "$379.99",
     type: "phone",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 5,
@@ -43,6 +92,18 @@ export const PRODUCTS_DATA = [
     price: "$86.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 6,
@@ -52,6 +113,18 @@ export const PRODUCTS_DATA = [
     price: "$459.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 7,
@@ -61,6 +134,15 @@ export const PRODUCTS_DATA = [
     price: "$699.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 8,
@@ -70,6 +152,14 @@ export const PRODUCTS_DATA = [
     price: "$2400.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 9,
@@ -79,6 +169,10 @@ export const PRODUCTS_DATA = [
     price: "$1009.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+    },
   },
   {
     id: 10,
@@ -88,6 +182,15 @@ export const PRODUCTS_DATA = [
     price: "$1469.99",
     type: "laptops",
     url: "/laptops",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 11,
@@ -98,6 +201,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 12,
@@ -108,6 +224,18 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 13,
@@ -118,6 +246,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 14,
@@ -128,6 +269,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 15,
@@ -138,6 +292,16 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+    },
   },
   {
     id: 16,
@@ -147,6 +311,16 @@ export const PRODUCTS_DATA = [
     price: "$1369.99",
     type: "tvs",
     url: "/tvs",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+    },
   },
   {
     id: 17,
@@ -156,6 +330,18 @@ export const PRODUCTS_DATA = [
     price: "$1399.99",
     type: "tvs",
     url: "/tvs",
+    specs: {
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 18,
@@ -165,6 +351,18 @@ export const PRODUCTS_DATA = [
     price: "$1749.99",
     type: "tvs",
     url: "/tvs",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+    },
   },
   {
     id: 19,
@@ -174,6 +372,16 @@ export const PRODUCTS_DATA = [
     price: "$1099.99",
     type: "tvs",
     url: "/tvs",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 20,
@@ -183,6 +391,12 @@ export const PRODUCTS_DATA = [
     price: "$1169.99",
     type: "tvs",
     url: "/tvs",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 21,
@@ -192,6 +406,9 @@ export const PRODUCTS_DATA = [
     price: "$249.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+    },
   },
   {
     id: 22,
@@ -201,6 +418,15 @@ export const PRODUCTS_DATA = [
     price: "$459.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 23,
@@ -210,6 +436,11 @@ export const PRODUCTS_DATA = [
     price: "$3949.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 24,
@@ -219,6 +450,10 @@ export const PRODUCTS_DATA = [
     price: "$1499.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 25,
@@ -228,6 +463,15 @@ export const PRODUCTS_DATA = [
     price: "$329.99",
     type: "gaming",
     url: "/gaming",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 26,
@@ -236,6 +480,19 @@ export const PRODUCTS_DATA = [
     price: "$2149.99",
     type: "phones",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 27,
@@ -245,6 +502,19 @@ export const PRODUCTS_DATA = [
     price: "$1249.99",
     type: "phones",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 28,
@@ -254,6 +524,19 @@ export const PRODUCTS_DATA = [
     price: "$749.99",
     type: "phones",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 29,
@@ -263,6 +546,19 @@ export const PRODUCTS_DATA = [
     price: "$549.99",
     type: "phones",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 30,
@@ -272,6 +568,19 @@ export const PRODUCTS_DATA = [
     price: "$1049.99",
     type: "phones",
     url: "/mobile-phones",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 31,
@@ -282,6 +591,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 32,
@@ -292,6 +614,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 33,
@@ -302,6 +637,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 34,
@@ -312,6 +660,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "gpus",
     url: "/pc-components/gpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 35,
@@ -322,6 +683,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 36,
@@ -332,6 +706,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 37,
@@ -342,6 +729,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 38,
@@ -352,6 +752,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 39,
@@ -362,6 +775,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cpus",
     url: "/pc-components/cpus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 40,
@@ -372,6 +798,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 41,
@@ -382,6 +821,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 42,
@@ -392,6 +844,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 43,
@@ -402,6 +867,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 44,
@@ -412,6 +890,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "motherboards",
     url: "/pc-components/motherboards",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 45,
@@ -422,6 +913,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cases",
     url: "/pc-components/cases",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 46,
@@ -432,6 +936,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cases",
     url: "/pc-components/cases",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 47,
@@ -442,6 +959,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cases",
     url: "/pc-components/cases",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 48,
@@ -452,6 +982,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cases",
     url: "/pc-components/cases",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 49,
@@ -462,6 +1005,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "ram",
     url: "/pc-components/ram",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 50,
@@ -472,6 +1028,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "ram",
     url: "/pc-components/ram",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 51,
@@ -482,6 +1051,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "ram",
     url: "/pc-components/ram",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 52,
@@ -492,6 +1074,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "hdds",
     url: "/pc-components/hdds",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 53,
@@ -502,6 +1097,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "ssds",
     url: "/pc-components/ssds",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 54,
@@ -512,6 +1120,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "opticaldrives",
     url: "/pc-components/opticaldrives",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 55,
@@ -522,6 +1143,19 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "psus",
     url: "/pc-components/psus",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
   {
     id: 56,
@@ -532,5 +1166,18 @@ export const PRODUCTS_DATA = [
     type: "pc parts",
     pcpart: "cooling",
     url: "/pc-components/cooling",
+    specs: {
+      spec1: "Spec1 is this and this ,,, asdhq asd mqwoasd qweizfn",
+      spec2: "Spec2 is this woasd qweizfn",
+      spec3: "Spec3 is this ",
+      spec4:
+        "Spec4 is this and this ,,, asdhq asd mqwoasd qweizfn asdd iapsodi paois",
+      spec5: "Spec5 is this and this qweizfn",
+      spec6: "Spec6.",
+      spec7: "Spec7 : asdasdasd",
+      spec8: "Spec8 ffffff",
+      spec9: "Spec9 asdasd",
+      spec10: "Spec10 is form",
+    },
   },
 ];

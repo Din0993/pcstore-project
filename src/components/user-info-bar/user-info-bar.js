@@ -10,6 +10,7 @@ import {
 } from "./user-info-bar.style";
 
 const UserInfoBar = () => {
+  const signInStatus = false;
   return (
     <div>
       <UserInfoBarContainer>
@@ -18,8 +19,15 @@ const UserInfoBar = () => {
           <UserInfoBarNumber>123123</UserInfoBarNumber>
         </UserInfoBarTextContainer>
         <UserInfoBarButtonsContainer>
-          <UserInfoBarButton>Sign in</UserInfoBarButton>
-          <UserInfoBarButton>Sign up</UserInfoBarButton>
+          {signInStatus ? (
+            <UserInfoBarButton to="/sign-in-sign-up">
+              Sign out
+            </UserInfoBarButton>
+          ) : (
+            <UserInfoBarButton to="/sign-in-sign-up">
+              Sign in / Sign up
+            </UserInfoBarButton>
+          )}
         </UserInfoBarButtonsContainer>
       </UserInfoBarContainer>
     </div>

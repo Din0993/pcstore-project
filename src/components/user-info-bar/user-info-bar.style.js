@@ -1,4 +1,5 @@
 import styled, { css } from "styled-components";
+import { Link } from "react-router-dom";
 
 export const UserInfoBarContainer = styled.div`
   position: relative;
@@ -33,7 +34,7 @@ export const UserInfoBarButtonsContainer = styled.div`
   gap: 12px;
 `;
 
-export const UserInfoBarButton = styled.button`
+export const UserInfoBarButton = styled(Link)`
   border: none;
   outline: none;
   background-color: #00449c;
