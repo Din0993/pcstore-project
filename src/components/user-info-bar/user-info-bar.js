@@ -1,5 +1,5 @@
 import React from "react";
-
+import CartIcon from "../cart-icon/cart-icon";
 import {
   UserInfoBarContainer,
   UserInfoBarNumber,
@@ -28,6 +28,7 @@ const UserInfoBar = () => {
               Sign in / Sign up
             </UserInfoBarButton>
           )}
+          <CartIcon />
         </UserInfoBarButtonsContainer>
       </UserInfoBarContainer>
     </div>

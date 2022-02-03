@@ -1,4 +1,5 @@
 import React from "react";
+import { useSelector } from "react-redux";
 import {
   SignInAndSignUpContainer,
   SignContainer,
@@ -6,6 +7,9 @@ import {
 } from "./sign-in-and-sign-up.style";
 
 const SignInAndSignUp = () => {
+  const state = useSelector((state) => state.account);
+  console.log(state);
+
   return (
     <div>
       <SignInAndSignUpContainer>

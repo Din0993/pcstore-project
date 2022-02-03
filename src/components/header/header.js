@@ -1,5 +1,6 @@
 import React from "react";
-
+import CartDropdown from "../cart-dropdown/cart-dropdown";
+import { useSelector } from "react-redux";
 import {
   HeaderContainer,
   LogoContainer,
@@ -9,6 +10,8 @@ import {
 import { ReactComponent as Logo } from "../../assets/crown.svg";
 
 const Header = () => {
+  const hidden = useSelector((state) => state.cart.hidden);
+
   return (
     <div>
       <HeaderContainer>
@@ -22,6 +25,7 @@ const Header = () => {
           <HeaderLink to="/mobile-phones">Phones</HeaderLink>
           <HeaderLink to="/laptops">Laptops</HeaderLink>
         </HeaderOptionsContainer>
+        {hidden ? null : <CartDropdown />}
       </HeaderContainer>
     </div>
   );

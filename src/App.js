@@ -12,16 +12,7 @@ import UserInfoBar from "./components/user-info-bar/user-info-bar";
 import DetailedProductPage from "./components/detailed-product-page/detailed-product-page";
 import SignInAndSignUp from "./components/SignInAndSignUpPage.js/sign-in-and-sign-up";
 
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-  Link,
-  Outlet,
-  NavLink,
-  useLocation,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import "./App.css";
 

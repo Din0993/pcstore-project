@@ -31,6 +31,7 @@ export const UserInfoBarTextNormal = styled.p`
 export const UserInfoBarButtonsContainer = styled.div`
   display: flex;
   background-color: transparent;
+  align-items: center;
   gap: 12px;
 `;
 
