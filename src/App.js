@@ -11,6 +11,7 @@ import Header from "./components/header/header";
 import UserInfoBar from "./components/user-info-bar/user-info-bar";
 import DetailedProductPage from "./components/detailed-product-page/detailed-product-page";
 import SignInAndSignUp from "./components/SignInAndSignUpPage.js/sign-in-and-sign-up";
+import Checkout from "./components/checkout/checkout";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
@@ -34,6 +35,7 @@ const App = () => {
             path="/pc-components/:component/:param"
             element={<DetailedProductPage />}
           />
+          <Route path="/checkout" element={<Checkout />} />
           <Route path="/tvs/:param" element={<DetailedProductPage />} />
           <Route path="/gaming/:param" element={<DetailedProductPage />} />
           <Route

@@ -15,7 +15,6 @@ const CartDropdown = () => {
   const dispatch = useDispatch();
   const { toggleCartHidden } = bindActionCreators(cartActionCreators, dispatch);
   const cartItems = useSelector((state) => state.cart.cartItems);
-  console.log(cartItems);
   return (
     <CartDropdownContainer>
       <CartItemsContainer>
@@ -27,7 +26,7 @@ const CartDropdown = () => {
           <EmptyMessageContainer>Your cart is empty</EmptyMessageContainer>
         )}
       </CartItemsContainer>
-      <CartItemsButton onClick={toggleCartHidden}>
+      <CartItemsButton to="/checkout" onClick={toggleCartHidden}>
         GO TO CHECKOUT
       </CartItemsButton>
     </CartDropdownContainer>
